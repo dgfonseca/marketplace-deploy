@@ -1,7 +1,12 @@
 from rest_framework import viewsets, generics
-
+from django.views.generic import TemplateView
+from django.shortcuts import render
 from . import models
 from . import serializers
+
+class HomePageView(TemplateView):
+    def get(self, request, **kwargs):
+        return render(request, 'index.html', context=None)
 
 
 class UsuarioViewset(viewsets.ModelViewSet):
