@@ -4,6 +4,39 @@
     <list default="true" id="bb515a85-c68b-4398-aa74-2cc97b4f488f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Backend/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/static/canasta-canasta-module.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/canasta-canasta-module.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/static/canasta-canasta-module.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/static/canasta-canasta-module.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/static/cliente-cliente-module.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/cliente-cliente-module.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/static/cliente-cliente-module.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/static/cliente-cliente-module.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/static/common.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/common.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/static/common.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/static/common.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/static/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/static/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/static/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/static/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/static/main.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/static/main.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/static/oferta-oferta-module.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/oferta-oferta-module.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/static/oferta-oferta-module.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/static/oferta-oferta-module.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/static/pedido-cliente-pedido-cliente-module.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/pedido-cliente-pedido-cliente-module.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/static/pedido-cliente-pedido-cliente-module.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/static/pedido-cliente-pedido-cliente-module.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/static/pedido-pedido-module.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/pedido-pedido-module.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/static/pedido-pedido-module.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/static/pedido-pedido-module.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/static/pedido-productor-pedido-productor-module.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/pedido-productor-pedido-productor-module.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/static/pedido-productor-pedido-productor-module.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/static/pedido-productor-pedido-productor-module.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/static/polyfills.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/polyfills.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/static/polyfills.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/static/polyfills.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/static/producto-catalogo-producto-catalogo-module.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/producto-catalogo-producto-catalogo-module.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/static/producto-catalogo-producto-catalogo-module.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/static/producto-catalogo-producto-catalogo-module.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/static/producto-producto-module.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/producto-producto-module.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/static/producto-producto-module.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/static/producto-producto-module.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/static/productor-productor-module.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/productor-productor-module.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/static/productor-productor-module.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/static/productor-productor-module.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/static/runtime.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/runtime.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/static/runtime.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/static/runtime.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/static/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/static/styles.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/static/styles.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/static/vendor.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/vendor.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/static/vendor.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/static/vendor.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/urls.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,11 +46,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Backend/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-265">
-              <caret line="47" column="18" lean-forward="true" selection-start-line="47" selection-start-column="18" selection-end-line="47" selection-end-column="18" />
+            <state relative-caret-position="228">
+              <caret line="76" column="62" selection-start-line="76" selection-start-column="62" selection-end-line="76" selection-end-column="62" />
               <folding>
                 <element signature="e#307#329#0" expanded="true" />
               </folding>
@@ -53,11 +86,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Backend/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="23" column="72" lean-forward="true" selection-start-line="23" selection-start-column="72" selection-end-line="23" selection-end-column="72" />
+            <state relative-caret-position="232">
+              <caret line="25" column="10" selection-start-line="25" selection-start-column="10" selection-end-line="25" selection-end-column="10" />
               <folding>
                 <element signature="e#631#676#0" expanded="true" />
               </folding>
@@ -68,8 +101,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Backend/templates/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-68">
-              <caret line="6" column="17" lean-forward="true" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+            <state relative-caret-position="34">
+              <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -92,9 +125,9 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Backend/viewsets.py" />
-        <option value="$PROJECT_DIR$/Backend/urls.py" />
         <option value="$PROJECT_DIR$/Backend/templates/index.html" />
         <option value="$PROJECT_DIR$/Backend/settings.py" />
+        <option value="$PROJECT_DIR$/Backend/urls.py" />
       </list>
     </option>
   </component>
@@ -131,12 +164,6 @@
               <item name="marketplace-deploy" type="462c0819:PsiDirectoryNode" />
               <item name="Backend" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="marketplace-deploy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="marketplace-deploy" type="462c0819:PsiDirectoryNode" />
-              <item name="Backend" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -154,6 +181,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\david\Desktop\marketplace-deploy" />
       <recent name="C:\Users\david\Desktop\marketplace-deploy\Backend" />
     </key>
   </component>
@@ -204,15 +232,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1618187809143</updated>
-      <workItem from="1618187814131" duration="6751000" />
+      <workItem from="1618187814131" duration="9270000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6751000" />
+    <option name="totallyTimeSpent" value="9270000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24962178" />
@@ -221,7 +250,7 @@
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Python Console" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.5040917" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.30278233" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -244,21 +273,9 @@
     <entry file="file://$PROJECT_DIR$/requirements.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Backend/wsgi.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Backend/static/pedido-cliente-pedido-cliente-module.js">
+    <entry file="file://$PROJECT_DIR$/static/pedido-cliente-pedido-cliente-module.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-3205" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Backend/router.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#34#0" expanded="true" />
-          </folding>
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Procfile">
@@ -270,18 +287,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Backend/templates/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-68">
-          <caret line="6" column="17" lean-forward="true" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Backend/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="23" column="72" lean-forward="true" selection-start-line="23" selection-start-column="72" selection-end-line="23" selection-end-column="72" />
-          <folding>
-            <element signature="e#631#676#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="34">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
         </state>
       </provider>
     </entry>
@@ -295,12 +302,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Backend/wsgi.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Backend/router.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Backend/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-265">
-          <caret line="47" column="18" lean-forward="true" selection-start-line="47" selection-start-column="18" selection-end-line="47" selection-end-column="18" />
+        <state relative-caret-position="228">
+          <caret line="76" column="62" selection-start-line="76" selection-start-column="62" selection-end-line="76" selection-end-column="62" />
           <folding>
             <element signature="e#307#329#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Backend/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="25" column="10" selection-start-line="25" selection-start-column="10" selection-end-line="25" selection-end-column="10" />
+          <folding>
+            <element signature="e#631#676#0" expanded="true" />
           </folding>
         </state>
       </provider>
