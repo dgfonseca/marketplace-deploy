@@ -23,5 +23,5 @@ urlpatterns = [
     path('api/', include(router.router.urls)),
     path('api/productorOfertas/<int:id>', viewsets.OfertaDeProductorViewset.as_view(), name="OfertaDeProductorViewset"),
     path('admin/', admin.site.urls),
-    path(r'^', viewsets.HomePageView.as_view())
+    path('', viewsets.HomePageView.as_view())
 ]
