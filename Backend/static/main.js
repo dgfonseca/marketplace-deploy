@@ -1669,7 +1669,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-const API_IP = "http://localhost:4200/api/";
+const API_IP = "https://marketplace-procesosagiles.herokuapp.com/api/";
 const CLIENTE = "cliente/";
 const PEDIDO_CLIENTE = "pedido-cliente/";
 const CANTIDAD_PRODUCTO_CATALOGO = "cantidad-producto-catalogo/";
