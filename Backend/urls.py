@@ -15,10 +15,12 @@ Including another URLconf
 """
 from django.urls import path, include,re_path
 from . import viewsets
+from django.contrib import admin
 
 from . import router
 
 urlpatterns = [
     path('api/', include(router.router.urls)),
-    path('api/productorOfertas/<int:id>', viewsets.OfertaDeProductorViewset.as_view(), name="OfertaDeProductorViewset")
+    path('api/productorOfertas/<int:id>', viewsets.OfertaDeProductorViewset.as_view(), name="OfertaDeProductorViewset"),
+    path('admin/', admin.site.urls)
 ]
